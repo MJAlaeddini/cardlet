@@ -22,4 +22,5 @@ Software musí poskytovat editor sady karet.
 
 Prozatimní verze nebude předpokládat ukládání dat na stranu serveru, takže musí jít sada vytvořených karet uložit do snadno přenositelného souboru, který lze kdykoliv nahrát zpět. Zvoleným formátem bude TOML díky jeho snadné integraci do jazyka Python.
 
-
+## Přispěvovatelé
+Pavel Beránek (Vedoucí programátor, PřF UJEP)
