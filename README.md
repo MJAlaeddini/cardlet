@@ -12,10 +12,10 @@ Pro projekt byla zvolen mikro pracovní rámec Flask v jazyce Python jako hlavn�
 Aktuálně je stav projektu v úplných začátcích, chybí design, architektura, programátoři. Zkrátka vše. Výsledný produkt se bude inspirovat aplikací knowt.io, která ovšem není optimalizovaná pro využití do výuky (full-screen nevede na karty přes celý displej aj.).
 
 Každá karta má svou odkrytou stranu, kterou mají studenti před očima.
-<img src="nápady/knowt_obrázky/odkrytá_strana_karty.png">
+<img src="nápady/knowt_obrázky/odkryta_strana_karty.png">
 
 Při kliku nebo zmáčknutí dedikované klávesy se karta obrátí a ukáže svou skrytou stranu (typicky odpověď na otázku z odkryté strany).
-<img src="nápady/knowt_obrázky/skrytá_strana_karty.png">
+<img src="nápady/knowt_obrázky/skryta_strana_karty.png">
 
 Software musí poskytovat editor sady karet.
 <img src="nápady/knowt_obrázky/editor_sady_karet.png">
