@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  
+  flask:
+    container_name: cardlet-flask
+    build:
+      dockerfile: Dockerfile
+    volumes:
+      - ./src:/app
+    ports:
+      - 5010:5000
