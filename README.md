@@ -22,5 +22,13 @@ Software musí poskytovat editor sady karet.
 
 Prozatimní verze nebude předpokládat ukládání dat na stranu serveru, takže musí jít sada vytvořených karet uložit do snadno přenositelného souboru, který lze kdykoliv nahrát zpět. Zvoleným formátem bude TOML díky jeho snadné integraci do jazyka Python.
 
+## Jak přispět do kódové báze
+
+V sekci Issues naleznete aktuální problémy, které je nutné vyřešit (funkční požadavky, nalezené bugy atd.). Vyberte si nějaký issue a přiřaďte si ho v pravé části popisu issue (položka Assignees po rozkliknutí daného issue). Následně si v pravé části vespod vytvořte k issue větev (položka development, create a branch for this issue). Nějak vhodně pojmenujte větev, branch source nechte (main) a dejte checkout locally. Vygenerují se vám příkazy fetch origin a checkout s názvem větve. Ty vložte do terminálu ve VS Code nebo vašem jiném IDE a tím si stáhnete vámi vytvořenou větev pro issue.
+
+Po vložení do terminálu a spuštění byste měli být přepnuti do vaší nově větve a můžete naprogramovat změnu. Pomocí git add . a git commit -m "vámi napsaný commit message a git push nahráváte kód do vaší větve na githubu (můžete zkontrolovat v online repozitáři). Až budete mít issue hotový, tak dáte v githubu Pull Request na větev main. Já pak změnu zkontroluji a provedu sloučení vašeho řešení do main větve.
+
+
+
 ## Přispěvovatelé
 Pavel Beránek (Vedoucí programátor, PřF UJEP)
