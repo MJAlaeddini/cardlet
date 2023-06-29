@@ -21,16 +21,3 @@ def contact():
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000, host="0.0.0.0")
-
-#co potřebujeme
-#1. Možnost si vytvořit kartu
-#2. Zobrazit vytvořené karty v náhledu
-#3. Zobrazit vytvořené karty na fullscreenu
-#4. Otáčet karty
-#5. Exportovat sadu karet do zip s jpg
-#6. Exportovat sadu karet do pdf
-#7. Pamatovat si uložené karty z cookie
-#8. Provést jednotkové testy na karty
-#9. Provést penetrační testy nad aplikací
-
-#proces
